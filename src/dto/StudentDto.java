@@ -68,6 +68,7 @@ public int getMath() {
 }
 public void setMath(int math) {
 	this.math = math;
+	
 }
 @Override
 public String toString() {
